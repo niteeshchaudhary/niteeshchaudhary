@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Niteesh Kamal Chaudhary
+      Student at IIT Dharwad
+
+I’m currently learning
 
 <!--
 **niteeshchaudhary/niteeshchaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
