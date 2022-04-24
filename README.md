@@ -45,7 +45,7 @@ I’m currently learning
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg"></code>
 <code>
 
