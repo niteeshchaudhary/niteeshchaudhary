@@ -37,13 +37,14 @@ I’m currently learning
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
-<code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
+<code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg"></code>
+<code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/J/Java-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/J/JavaScript-logo-vector-01.svg"></code>
-<code><img height="40" width="40" src="https://brandeps.com/logo-download/P/Python-logo-vector-01.svg"></code>
+<code><img height="40" width="40" src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code>
@@ -56,6 +57,7 @@ I’m currently learning
 <code><img height ="40" width="40" src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg"></code>
 <code><img height ="40" width="40" src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
+<code><img height="40" width="40" src="https://brandeps.com/logo-download/A/Android-logo-vector-02.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
 <br/>
 
