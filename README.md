@@ -1,5 +1,6 @@
 # Hi there 👋 I am Niteesh Kamal Chaudhary
 #### Student at IIT Dharwad
+
 <!--
 I’m currently learning
 - 🔭 I’m currently working on ...-->
@@ -12,8 +13,19 @@ I’m currently learning
         
 <h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/niteesh-kamal-chaudhary-a52211134/"> 
- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Varendra Maurya" height="30" width="40" style="max-width: 100%;"/>
-</a><!--
+ <img src="https://brandeps.com/icon-download/L/Linkedin-option-icon-vector-01.svg" alt="NKC" height="40" width="50" style="max-width: 100%;"/>
+</a>
+<a href="https://www.linkedin.com/in/niteesh-kamal-chaudhary-a52211134/"> 
+ <img src="https://brandeps.com/icon-download/F/Facebook-option-icon-vector-01.svg" alt="NKC" height="40" width="50" style="max-width: 100%;"/>
+</a>
+<a href="https://www.linkedin.com/in/niteesh-kamal-chaudhary-a52211134/"> 
+ <img src="https://brandeps.com/icon-download/T/Twitter-icon-vector-19.svg" alt="NKC" height="40" width="50" style="max-width: 100%;"/>
+</a>
+<a href="https://www.linkedin.com/in/niteesh-kamal-chaudhary-a52211134/"> 
+ <img src="https://brandeps.com/logo-download/I/Instagram-Icon-logo-vector-01.svg" alt="NKC" height="40" width="50" style="max-width: 100%;"/>
+</a>
+
+<!--
 <h3 dir="auto"><a id="user-content-statistical-data--" class="anchor" aria-hidden="true" href="#statistical-data--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Statistical Data :-
 </h3>-->
 <!--
@@ -36,7 +48,6 @@ I’m currently learning
 
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
@@ -59,6 +70,9 @@ I’m currently learning
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/A/Android-logo-vector-02.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
+<code><img height="40" width="30" src="https://brandeps.com/icon-download/V/Visual-studio-code-icon-vector-02.svg"></code>
+<code><img height="40" width="30" src="https://brandeps.com/icon-download/V/Visual-studio-icon-vector-02.svg"></code>
+<code><img height="40" width="30" src="https://brandeps.com/icon-download/U/Unity-icon-vector-01.svg"></code>
 <br/>
 
 #
