@@ -1,4 +1,4 @@
-# Hi there 👋 I am Niteesh Kamal Chaudhary
+![Header](./headernkc.png)
 #### Student at IIT Dharwad
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/niteeshchaudhary/github-profile-trophy)
 
@@ -92,7 +92,6 @@ I’m currently learning
         
 </div>
         
-![](./profile-3d-contrib/profile-green-animate.svg)
         
 <br/>
 
