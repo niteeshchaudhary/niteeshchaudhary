@@ -85,12 +85,15 @@ I’m currently learning
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=niteeshchaudhary#version3"/>
   </a>
 </p>
-
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/niteeshchaudhary?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
-
-
-
+<div align="center">        
+        
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niteeshchaudhary&theme=vue)
+        
+</div>
+        
+![](./profile-3d-contrib/profile-green-animate.svg)
+        
 <br/>
 
 ### ⚙️ &nbsp; GitHub Analytics
