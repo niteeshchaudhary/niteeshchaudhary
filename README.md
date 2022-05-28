@@ -1,5 +1,7 @@
 # Hi there 👋 I am Niteesh Kamal Chaudhary
 #### Student at IIT Dharwad
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/niteeshchaudhary/github-profile-trophy)
+
 
 <!--
 I’m currently learning
