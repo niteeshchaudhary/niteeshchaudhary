@@ -103,3 +103,7 @@ I’m currently learning
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=niteeshchaudhary&layout=compact&exclude_lang=java+r&theme=vue-light" />
 </a>
 </p>
+ Visitor count:
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/niteeshchaudhary/count.svg" />
+</p>
