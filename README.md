@@ -41,7 +41,7 @@ I’m currently learning
    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8cdbb16dbd980e45c56e56f039064cc2e2504cc5e9f9aeb6d38d9706c02ce1f6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d766172656e647261303037267468656d653d746f6b796f6e69676874"><img align="center" src="https://camo.githubusercontent.com/8cdbb16dbd980e45c56e56f039064cc2e2504cc5e9f9aeb6d38d9706c02ce1f6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d766172656e647261303037267468656d653d746f6b796f6e69676874" alt="niteeshchaudhary" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=niteeshchaudhary&amp;theme=tokyonight" style="max-width: 100%;"></a>
 </p>
 -->
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="./github.gif"></a>
 <br/>
 
 
