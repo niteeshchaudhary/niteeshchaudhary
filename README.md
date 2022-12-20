@@ -60,7 +60,7 @@ I’m currently learning
 <code><img height="40" width="40" src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg"></code>
-<code>
+
 
 #
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
