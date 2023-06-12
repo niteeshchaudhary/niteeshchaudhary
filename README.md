@@ -12,8 +12,10 @@ I’m currently learning
 - 💬 Ask me about ...-->
 - 📫 How to reach me: ...<br>
         nkchaudhary00@gmail.com
+        Portfolio:https://niteeshchaudhary.github.io/portfolio2/build/index.html
         
 <h3>Connect with me:</h3>
+
 <a href="https://www.linkedin.com/in/niteesh-kamal-chaudhary-a52211134/"> 
  <img src="https://brandeps.com/icon-download/L/Linkedin-option-icon-vector-01.svg" alt="NKC" height="40" width="50" style="max-width: 100%;"/>
 </a>
