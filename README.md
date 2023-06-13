@@ -50,7 +50,7 @@ I’m currently learning
 <br/>
 
 
-**LANGUAGES AND TOOLS:**  
+**LANGUAGES AND TOOLS I KNOW :**  
 
 
 <br/>
