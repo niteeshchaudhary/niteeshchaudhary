@@ -1,9 +1,10 @@
 ![Header](./headernkc.png)
+#### Student at IIT Dharwad
+[![trophy](https://github-profile-trophy.vercel.app/?username=niteeshchaudhary)](https://github.com/niteeshchaudhary/github-profile-trophy)
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+Full+Stack+Developer;I+am+Computer+Science+Student+at+IIT+Dharwad;I+Love+to+learn+and+create"></a>
 </p>
-#### Student at IIT Dharwad
-[![trophy](https://github-profile-trophy.vercel.app/?username=niteeshchaudhary)](https://github.com/niteeshchaudhary/github-profile-trophy)
 
 
 <!--
