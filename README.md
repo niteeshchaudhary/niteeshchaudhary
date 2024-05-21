@@ -106,7 +106,7 @@ I’m currently learning
 <p align="center">
 <a href="https://github.com/niteeshchaudhary">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=niteeshchaudhary&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=niteeshchaudhary&layout=compact&exclude_lang=java+r&theme=vue-light" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=niteeshchaudhary&layout=compact&theme=vue-light" />
 </a>
 </p>
  Visitor count:
