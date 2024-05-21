@@ -1,5 +1,5 @@
 ![Header](./headernkc.png)
-#### Student at IIT Dharwad
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=niteeshchaudhary)](https://github.com/niteeshchaudhary/github-profile-trophy)
 
 <p align="center">
