@@ -16,7 +16,7 @@ I’m currently learning
 - 💬 Ask me about ...-->
 - 📫 How to reach me: ...<br>
         nkchaudhary00@gmail.com
-        Portfolio:https://niteeshchaudhary.github.io/portfolio2/build/index.html
+        Portfolio:https://niteeshchaudhary.github.io/portfolio2
         
 <h3>Connect with me:</h3>
 
