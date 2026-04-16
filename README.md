@@ -67,7 +67,7 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <p>Profile Visitors</p>
   <img src="https://profile-counter.glitch.me/niteeshchaudhary/count.svg" alt="Visitor Count" />
-</div>
+</div> -->
