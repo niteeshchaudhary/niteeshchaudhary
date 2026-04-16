@@ -2,11 +2,11 @@
   <img src="./headernkc.png" alt="Header" width="100%" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/niteeshchaudhary/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=niteeshchaudhary&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
   </a>
-</div>
+</div> -->
 
 <br/>
 
