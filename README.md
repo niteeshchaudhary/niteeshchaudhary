@@ -32,7 +32,6 @@
 * 🌱 I’m currently building **ResumeUpgrader**, an AI-powered platform for resume optimization and interview preparation.
 * 🎓 Preparing for my next academic chapter by exploring MBA programs for the upcoming fall application cycle.
 * 🎵 Outside of tech, I love experimenting with AI-generated cinematic videos and music production.
-* 📫 How to reach me: **nkchaudhary00@gmail.com**
 
 ---
 
